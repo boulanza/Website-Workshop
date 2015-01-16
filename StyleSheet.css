@@ -1,2 +1,7 @@
-body {
+#container {
+    position: absolute;
+    width: 700px;
+    left: 50%;
+    margin-left: -350px;
+    border: 2px solid black;
 }
