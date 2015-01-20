@@ -1,7 +1,7 @@
 #container {
     position: absolute;
-    width: 700px;
     left: 50%;
-    margin-left: -350px;
+    width: 700px;
+    margin-left: -400px;
     border: 2px solid black;
 }
