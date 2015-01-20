@@ -5,3 +5,31 @@
     margin-left: -375px;
     border: 2px solid black;
 }
+
+#header {
+    width: 100%;
+    height: 150px;
+    background-color: red;
+}
+
+#navigation {
+    width: 100%;
+    height: 75px;
+    background-color: orange;
+}
+
+#content {
+    width: 100%;
+    min-height: 300px;
+    background-color: green;
+}
+
+#footer {
+    width: 100%;
+    height: 75px;
+    background-color: yellow;
+}
+
+body {
+    background-color: lightgray;
+}
