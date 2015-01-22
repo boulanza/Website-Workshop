@@ -14,8 +14,12 @@
 }
 
 #navigation {
-    height: 50px;
+    height: 35px;
     background-color: orange;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    font-family: Arial;
 }
 
 #content {
@@ -32,7 +36,8 @@
 }
 
 body {
-    background-color: lightgray;
+    background-image: url("128-193.jpg");
+    background-repeat: repeat;
 }
 
 h1 {
@@ -49,4 +54,22 @@ h1 {
 .logoSmall {
     font-family: Wingdings;
     font-size: 25px;
+}
+
+#navigation a:link, #navigation a:visited {
+    text-decoration: none;
+    background-color: darkorange;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+}
+
+#navigation a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 2px;
+    padding-bottom: 5px;
 }
