@@ -3,7 +3,7 @@
     left: 50%;
     width: 700px;
     margin-left: -375px;
-    border: 2px solid black;
+    border: 2px solid darkred;
 }
 
 #header {
@@ -35,7 +35,7 @@
 }
 
 body {
-    background-image: url("128-193.jpg");
+    background-image: url("school.png");
     background-repeat: repeat;
 }
 
@@ -43,6 +43,7 @@ h1 {
     font-family: Arial;
     font-size: 50px;
     display: inline;
+    color: yellow;
 }
 
 .logoBig {
@@ -62,6 +63,7 @@ h1 {
     padding-right: 35px;
     padding-top: 2px;
     padding-bottom: 5px;
+    color: red;
 }
 
 #navigation a:hover {
@@ -71,6 +73,7 @@ h1 {
     padding-right: 35px;
     padding-top: 2px;
     padding-bottom: 5px;
+    color: green;
 }
 
 .ContentBoxAll {
@@ -111,6 +114,7 @@ h2 {
     font-size: 30px;
     margin: 0px;
     margin-top: 10px;
+    color: darkorange;
 }
 
 .circle {
